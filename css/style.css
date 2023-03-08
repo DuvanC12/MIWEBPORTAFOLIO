@@ -28,7 +28,7 @@ justify-content: space-around;
 
 }
 #fondo{
-    background-image:url(../img/f.webp);
+    background-image:url(../img/fondo-del-escritorio-de-oficina-con-la-tableta-el-teléfono-elegante-y-la-taza-de-café-visión-desde-arriba-con-el-espacio-de-la-47176027.jpg);
     height: 60vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,11 +39,38 @@ justify-content: space-around;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(14, 14, 14, 0.8);
 }
 
 #fondo button {
 
    background-color:  rgb(14, 155, 155);
    color: white;
+}
+
+#titulo{
+   display: flex;
+   justify-content: center;
+    color: black;
+}
+
+
+.Textos{
+   
+    color: black;
+
+}
+
+#contenedor_textos{
+
+display: flex;
+
+}
+
+legend{
+
+    color: black;
+}
+
+footer{
+    color: black;
 }
